@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.out
+a.out
+.vscode/
+*.swp
+Thumbs.db
+
