@@ -6,3 +6,7 @@ a.out
 *.swp
 Thumbs.db
 
+
+
+# notebook temp files
+.ipynb_checkpoints/
